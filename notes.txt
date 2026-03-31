@@ -1,0 +1,13 @@
+Chimi v0.1
+
+// Chimi learns, remembers, and updates what it knows.
+
+Add:
+
+- Commands: 
+	For editing an answer.
+	For removing an answer (forget).
+	For playing mini games.
+
+- Multiple categories: Teach Chimi facts, jokes, or tasks in different sections.
+
