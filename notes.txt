@@ -5,9 +5,9 @@ Chimi v0.1
 Add:
 
 - Commands: 
-	For editing an answer.
+	For editing an answer. DONE
 	For removing an answer (forget).
 	For playing mini games.
 
-- Multiple categories: Teach Chimi facts, jokes, or tasks in different sections.
+- Multiple categories: teach Chimi facts, jokes, or tasks in different sections.
 
