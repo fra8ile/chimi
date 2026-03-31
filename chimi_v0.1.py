@@ -10,7 +10,7 @@ def load_knowledge_base(file_path: str) -> dict:
                 raise ValueError("File is empty")
             return json.loads(content)
     except (FileNotFoundError, json.JSONDecodeError, ValueError):
-        # Start fresh if file is missing, broken, or empty
+        # start fresh if file is missing, broken, or empty
         print("Chimi: Creating new knowledge base...")
         base = {"questions": []}
         save_knowledge_base(file_path, base)
