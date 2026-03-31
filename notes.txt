@@ -6,7 +6,7 @@ Add:
 
 - Commands: 
 	For editing an answer. DONE
-	For removing an answer (forget).
+	For removing an answer (forget). DONE
 	For playing mini games.
 
 - Multiple categories: teach Chimi facts, jokes, or tasks in different sections.
