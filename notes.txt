@@ -1,6 +1,6 @@
 Chimi v0.1
 
-// Chimi learns, remembers, and updates what it knows.
+Chimi learns, remembers, and updates what it knows.
 
 Add:
 
